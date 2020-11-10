@@ -1,0 +1,12 @@
+.navbar a{
+    float:left;
+    text-align: center;
+}
+.logo{
+    color: white;
+}
+.py-1{
+    float: left;
+    color: white;
+    margin-right: 20px;
+}
