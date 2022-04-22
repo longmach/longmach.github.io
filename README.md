@@ -6,4 +6,5 @@ This simulate an app that a shop owner from Diagon Alley can use to manage her s
 
 You can access it through this link:
 
-<ins>longmach.github.io</ins>
+[longmach.github.io](longmach.github.io)
+
